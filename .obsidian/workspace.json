@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "686c98ead2950ec0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2c1f84be46b2129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9b35cca1b7f9fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "51-75/58.This Is Your Captain Speaking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "58.This Is Your Captain Speaking"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "959378f049be1208",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc0dccf6f478545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3501350bdb0167e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6285a61403ae0a1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ca7ebbc45263cfc7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "827f13a1f792daa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cf38baab16b70c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3a3c6469be947cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "11.new guy in town.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "11.new guy in town 的反向链接列表"
+            }
+          },
+          {
+            "id": "94d96541900763ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "7.virus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "7.virus 的出链列表"
+            }
+          },
+          {
+            "id": "665da7f799796279",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "3de7c23fd978fa02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e1c5df7f2728aad9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6ddc48c0f5d1b157",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "7.virus.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "7.virus 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "c9b35cca1b7f9fca",
+  "lastOpenFiles": [
+    "51-75/57. Malfunction.md",
+    "51-75/58.This Is Your Captain Speaking.md",
+    "51-75/56.Planning bank robbery.md",
+    "51-75/55.hockey.md",
+    "51-75/54.Sorry I love you.md",
+    "51-75/53.Head chef.md",
+    "51-75/52.Pizza delivery.md",
+    "51-75/51.What a bargin.md",
+    "26-50/50. New Guy In Town.md",
+    "26-50/49.Daddy please.md",
+    "26-50/48.Carnival in Rio!.md",
+    "26-50/45.I'm sorry I love you.md",
+    "26-50/44.small talk.md",
+    "26-50/43.Applying for visa.md",
+    "26-50/42.I need more time.md",
+    "26-50/41.Movie trailer.md",
+    "26-50/40.Can I ask you a favor.md",
+    "51-75",
+    "26-50/38.Buying a car.md",
+    "26-50/37.Chinese New Year.md",
+    "26-50/36.I'm sorry I love you.md",
+    "26-50/35.He's not a good fit.md",
+    "26-50/39.New boyfriend.md",
+    "26-50/34. D.md",
+    "26-50/33.Foul.md",
+    "26-50/32.opening a bank count.md",
+    "26-50/31.Canceling an appointment.md",
+    "26-50",
+    "1-25"
+  ]
+}
