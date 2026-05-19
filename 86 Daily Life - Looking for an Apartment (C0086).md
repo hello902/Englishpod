@@ -1,7 +1,0 @@
-spacious 
-
-landlord 
-
-tenant
-
-redecoration
