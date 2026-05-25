@@ -1,6 +1,7 @@
 swell - swollen
 
 cavity 
+empty space inside something solid
 
 crown 
 
