@@ -1,4 +1,4 @@
-### preoccupied
+**preoccupied**
 worried; thinking about something else
 
 **beat around the bush**
