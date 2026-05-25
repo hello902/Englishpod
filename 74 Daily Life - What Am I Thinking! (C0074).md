@@ -1,4 +1,5 @@
 **famish**
+make someone extremely hungry
 
 Dumbass
 
