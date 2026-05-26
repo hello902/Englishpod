@@ -10,6 +10,7 @@ sexist
 showing prejudice or discrimination against people based on their sex
 
 moron
+a person who is considered foolish or stupid
 
 chill
 
