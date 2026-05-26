@@ -1,5 +1,9 @@
 divide
- square root
- 
+plus
+minus
+times
+
+square root
+
 
 suck up 
