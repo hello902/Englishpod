@@ -2,6 +2,7 @@
 make someone extremely hungry
 
 Dumbass
+a rude term for a foolish or stupid person
 
 dude
 
