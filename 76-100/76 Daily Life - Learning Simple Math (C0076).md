@@ -1,4 +1,5 @@
-divide devided
+divide
+devided
 plus
 minus
 times
