@@ -7,6 +7,7 @@ a rude term for a foolish or stupid person
 dude
 
 sexist
+showing prejudice or discrimination against people based on their sex
 
 moron
 
