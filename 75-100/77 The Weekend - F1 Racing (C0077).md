@@ -54,8 +54,8 @@ yellow flag
 
 **信号旗规则**
     
-    - 黄旗 (yellow flag)：前方有事故 / 障碍物，全场减速，禁止超车；
-    - 绿旗 (green flag)：危险解除，比赛恢复正常竞速。
+    黄旗 (yellow flag)：前方有事故 / 障碍物，全场减速，禁止超车；
+    s绿旗 (green flag)：危险解除，比赛恢复正常竞速。
     
 - **安全车 (pace car/safety car)**
     
