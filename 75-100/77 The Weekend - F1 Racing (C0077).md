@@ -50,7 +50,9 @@ yellow flag
     
 - **take the lead** 取得领先，领跑
 - **checkered flag** 方格旗（赛车终点旗，挥动即代表比赛结束）
-- **信号旗规则**
+
+
+**信号旗规则**
     
     - 黄旗 (yellow flag)：前方有事故 / 障碍物，全场减速，禁止超车；
     - 绿旗 (green flag)：危险解除，比赛恢复正常竞速。
