@@ -7,6 +7,7 @@ lack of interest, concern or sympathy
 
 hostility
 noun,unfriendly or aggressive behaviour; opposition
+hostile ：怀有敌意的
 
 genesis 
 
@@ -18,7 +19,7 @@ disgusted
 
 indifference 
 
-hostility 对抗  hostile ：怀有敌意的
+hostility 对抗  
 
 drastic 急剧的  measure
 
