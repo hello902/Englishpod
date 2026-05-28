@@ -6,6 +6,7 @@ indifference
 lack of interest, concern or sympathy
 
 hostility
+unfriendly or aggressive behaviour; opposition
 
 genesis 
 
