@@ -5,6 +5,8 @@ appal
 indifference
 lack of interest, concern or sympathy
 
+hostility
+
 genesis 
 
 brutality  
