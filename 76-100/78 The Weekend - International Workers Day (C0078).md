@@ -11,6 +11,7 @@ hostile ：怀有敌意的
 
 legislative
 adjective;relating to making laws
+
 genesis 
 
 brutality  
