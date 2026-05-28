@@ -3,6 +3,7 @@ extremely bad or shocking
 appal
 
 indifference
+lack of interest, concern or sympathy
 
 genesis 
 
