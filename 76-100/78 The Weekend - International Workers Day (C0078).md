@@ -1,5 +1,6 @@
 appalling 
-
+extremely bad or shocking
+app'a'l
 genesis 
 
 brutality  
