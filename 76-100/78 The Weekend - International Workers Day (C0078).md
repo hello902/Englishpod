@@ -17,10 +17,6 @@ harsh 严厉的
 
 disgusted
 
-indifference 
-
-hostility 对抗  
-
 drastic 急剧的  measure
 
 desperate 
