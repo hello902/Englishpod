@@ -20,6 +20,7 @@ harsh 严厉的
 
 disgusted
 
-drastic 急剧的  measure
+drastic 
+extreme and forceful; severe
 
 desperate 
