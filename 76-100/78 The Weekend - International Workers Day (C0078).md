@@ -1,3 +1,4 @@
+
 genesis 
 
 brutality  
@@ -5,8 +6,6 @@ brutality
 harsh 严厉的
 
 disgusted
-
-
 
 indifference 
 
