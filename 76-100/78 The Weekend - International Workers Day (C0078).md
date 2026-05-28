@@ -14,7 +14,7 @@ adjective;relating to making laws
 
 genesis 
 
-brutality  
+brutality   noun
 cruel, violent behaviour; extreme cruelty
 
 harsh 严厉的
