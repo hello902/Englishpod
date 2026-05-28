@@ -21,6 +21,6 @@ harsh 严厉的
 disgusted
 
 drastic 
-extreme and forceful; severe
+adjective,extreme and forceful; severe
 
 desperate 
