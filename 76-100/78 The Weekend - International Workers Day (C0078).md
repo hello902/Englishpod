@@ -1,6 +1,6 @@
 appalling 
 extremely bad or shocking
-app'a'l
+app all、
 genesis 
 
 brutality  
