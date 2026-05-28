@@ -6,7 +6,7 @@ harsh 严厉的
 
 disgusted
 
-appalling 
+
 
 indifference 
 
