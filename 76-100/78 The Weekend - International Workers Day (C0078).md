@@ -2,6 +2,8 @@ appalling
 extremely bad or shocking
 appal
 
+indifference
+
 genesis 
 
 brutality  
