@@ -1,5 +1,0 @@
-swell - swollen
-
-cavity 
-
-crown 
